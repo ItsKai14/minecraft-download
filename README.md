@@ -1,2 +1,2 @@
 # minecraft-download
-Download latest Minecraft PE
+Download latest version of Minecraft PE here
