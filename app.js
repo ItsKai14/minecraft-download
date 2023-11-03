@@ -3,7 +3,7 @@ angular.module('myApp', [])
   $scope.clickCount = localStorage.getItem('clickCount') || 0;
 
   $scope.incrementClickCount = function () {
-    $scope.clickCount--;
+    $scope.clickCount++;
     localStorage.setItem('clickCount', $scope.clickCount);
   };
 });
